@@ -1,0 +1,3 @@
+uname: admin
+email: admin@gmail.com
+pswd: donate123
